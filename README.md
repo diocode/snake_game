@@ -26,7 +26,7 @@ The game includes essential features such as snake movement, apple generation, a
 #### COMPILATION AND EXECUTION
 #### 1º - Clone the repository
 ```bash
-$ ./git clone git@github.com:diocode/snake_game.git
+$ git clone git@github.com:diocode/snake_game.git
 ```
 
 <br>
